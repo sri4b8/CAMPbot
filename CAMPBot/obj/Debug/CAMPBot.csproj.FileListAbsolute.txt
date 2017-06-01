@@ -61,3 +61,66 @@ C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Razor.xml
 C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.xml
 C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Deployment.xml
 C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Razor.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Bot Application.dll.config
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Bot Application.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Bot Application.pdb
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Autofac.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Chronic.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Common.Logging.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Infrastructure.DI.Spring.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Infrastructure.Seedwork.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\log4net.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Connector.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Web.Infrastructure.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Newtonsoft.Json.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Spring.Core.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Net.Http.Formatting.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Helpers.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Http.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Http.WebHost.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Mvc.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Razor.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.Deployment.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.Razor.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Autofac.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Infrastructure.Seedwork.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\log4net.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Bot.Connector.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Newtonsoft.Json.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Spring.Core.pdb
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\Spring.Core.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Net.Http.Formatting.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Helpers.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Http.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Http.WebHost.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Mvc.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.Razor.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.Deployment.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\System.Web.WebPages.Razor.xml
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\obj\Debug\CAMPBot.csprojResolveAssemblyReference.cache
+E:\Srikanth Pilla\CAMPBot\CAMPBot\obj\Debug\Bot Application.dll
+E:\Srikanth Pilla\CAMPBot\CAMPBot\obj\Debug\Bot Application.pdb
