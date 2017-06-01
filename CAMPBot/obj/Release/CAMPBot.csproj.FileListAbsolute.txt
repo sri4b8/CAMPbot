@@ -1,0 +1,63 @@
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Bot Application.dll.config
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Bot Application.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Bot Application.pdb
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Autofac.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Chronic.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Newtonsoft.Json.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Net.Http.Formatting.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Http.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Http.WebHost.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Autofac.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Newtonsoft.Json.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Net.Http.Formatting.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Http.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Http.WebHost.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\obj\Release\CAMPBot.csprojResolveAssemblyReference.cache
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\obj\Release\Bot Application.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\obj\Release\Bot Application.pdb
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Common.Logging.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Infrastructure.DI.Spring.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Infrastructure.Seedwork.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\log4net.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Spring.Core.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Helpers.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Mvc.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Razor.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Infrastructure.Seedwork.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\log4net.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Spring.Core.pdb
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\Spring.Core.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Helpers.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Mvc.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.Razor.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srikanthpilla\Desktop\CAMPBot\CAMPBot\bin\System.Web.WebPages.Razor.xml

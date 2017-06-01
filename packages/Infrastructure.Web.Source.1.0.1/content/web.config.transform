@@ -1,0 +1,8 @@
+﻿<configuration>
+<connectionStrings>
+    <add 
+        name="SqlConnection" 
+        providerName="System.Data.SqlClient" 
+        connectionString="Data Source=.\SqlExpress;Initial Catalog=Northwind;Integrated Security=True;Pooling=true;Min Pool Size = 1;Max Pool Size=100;Connect Timeout=300" />
+  </connectionStrings>
+</configuration>
